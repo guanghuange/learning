@@ -1,2 +1,2 @@
-# lerning
-just for lerning
+# learning
+just for learning
